@@ -5,19 +5,19 @@
 
 **HDFC Bank Analysis**
 
-![Power BI report page 1](Insights Output/Screenshot (40).png)
+![Power BI report page 1](/Insights%20Output/Screenshot%20(40).png)
 
 ---
 
 **Credit Card Analysis vs Competitors**
 
-![Power BI report page 2](Insights Output/Screenshot (41).png)
+![Power BI report page 2](/Insights%20Output/Screenshot%20(41).png)
 
 ---
 
 **Debit Card Analysis vs Competitors**
 
-![Power BI report page 3](Insights Output/Screenshot (42).png)
+![Power BI report page 3](/Insights%20Output/Screenshot%20(42).png)
 
 ## What's This About?
 
